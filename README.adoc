@@ -13,52 +13,52 @@ O **Sistema de Gerenciamento de Biblioteca** foi desenvolvido para facilitar o p
 == 📗 Recursos
 O sistema oferece os seguintes recursos para uma melhor experiência de gestão da biblioteca:
 
-* 📚 **Cadastro e gerenciamento de livros**: Incluindo informações detalhadas (título, autor, ISBN, etc.).
-* 📅 **Empréstimos e devoluções**: Criação e modificação de empréstimos de livros, com opções de data de empréstimo e devolução.
-* 🔄 **Visualização da disponibilidade dos livros**: Acompanhe em tempo real a disponibilidade dos livros.
-* 📊 **Geração de relatórios**: Relatórios de empréstimos, devoluções e multas.
-* 🔔 **Notificação de usuários**: Notifique os usuários sobre empréstimos e devoluções.
-* 🔐 **Sistema de login e autenticação**: Para administradores e usuários, garantindo segurança e controle.
+* 📚| **Cadastro e gerenciamento de livros**: Incluindo informações detalhadas (título, autor, ISBN, etc.).
+* 📅| **Empréstimos e devoluções**: Criação e modificação de empréstimos de livros, com opções de data de empréstimo e devolução.
+* 🔄| **Visualização da disponibilidade dos livros**: Acompanhe em tempo real a disponibilidade dos livros.
+* 📊| **Geração de relatórios**: Relatórios de empréstimos, devoluções e multas.
+* 🔔| **Notificação de usuários**: Notifique os usuários sobre empréstimos e devoluções.
+* 🔐| **Sistema de login e autenticação**: Para administradores e usuários, garantindo segurança e controle.
 
 == 📦 Tecnologias Utilizadas
 O Sistema de Gerenciamento de Biblioteca foi desenvolvido utilizando as seguintes tecnologias:
 
-* 🖥 **Frontend**:
+* 🖥| **Frontend**:
   * **Angular**: Framework utilizado para o desenvolvimento da interface de usuário, permitindo uma aplicação interativa e responsiva.
   
-* ⚙️ **Backend**:
+* ⚙️| **Backend**:
   * **Spring Boot (Java)**: Framework utilizado para o desenvolvimento da API, que gerencia os empréstimos, os livros e os usuários.
 
-* 🗄 **Banco de Dados**:
+* 🗄| **Banco de Dados**:
   * **MySQL**: Banco de dados relacional utilizado para armazenar informações sobre empréstimos, usuários e livros.
 
-* 🔒 **Autenticação**:
+* 🔒| **Autenticação**:
   * **JWT (JSON Web Tokens)**: Utilizado para garantir a segurança no processo de autenticação e autorização de usuários.
 
 == 🔫 Como Executar
 Siga os passos abaixo para executar o projeto em sua máquina local:
 
-1. **Clone o repositório**:
+1) **Clone o repositório**:
 [source,sh]
 ----
 git clone https://github.com/usuario/sistema-biblioteca.git
 ----
 
-2. **Instale as Dependências do Frontend**:
+2) **Instale as Dependências do Frontend**:
 [source,sh]
 ----
 cd sistema-biblioteca/frontend
 npm install
 ----
 
-3. **Instale as Dependências do Backend**:
+3) **Instale as Dependências do Backend**:
 [source,sh]
 ----
 cd sistema-biblioteca/backend
 mvn install
 ----
 
-4. **Configuração do Banco de Dados**:
+4) **Configuração do Banco de Dados**:
   - Crie um banco de dados MySQL e configure as credenciais no arquivo `application.properties` do backend. Exemplo:
 [source,properties]
 ----
@@ -67,13 +67,13 @@ spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
 ----
 
-5. **Inicie o Servidor Backend**:
+5) **Inicie o Servidor Backend**:
 [source,sh]
 ----
 mvn spring-boot:run
 ----
 
-6. **Inicie o Servidor Frontend**:
+6) **Inicie o Servidor Frontend**:
 [source,sh]
 ----
 ng serve
