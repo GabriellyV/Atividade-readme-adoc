@@ -1,4 +1,4 @@
-= Sistema de Gerenciamento de Biblioteca
+= 📝 TaskFlow - Gerenciador de Tarefas
 :icons: font
 :toc: left
 :toclevels: 2
