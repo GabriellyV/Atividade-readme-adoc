@@ -4,13 +4,13 @@
  📅 || Data: 14/02/2025
 
 :icons: font
-:toc: left
+:toc: left 
 :toclevels: 2
 
-== 🎯 Sobre o Projeto
+== 📒 Sobre o Projeto
 O **Sistema de Gerenciamento de Biblioteca** foi desenvolvido para facilitar o processo de empréstimo, devolução e gerenciamento de livros em uma biblioteca. Através da aplicação, é possível gerenciar empréstimos de livros, disponibilidade de exemplares, cadastro de usuários e gerar relatórios de atividades. O sistema visa melhorar a experiência do usuário e otimizar a administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 
-== 🚀 Recursos
+== 📗 Recursos
 O sistema oferece os seguintes recursos para uma melhor experiência de gestão da biblioteca:
 
 * 📚 **Cadastro e gerenciamento de livros**: Incluindo informações detalhadas (título, autor, ISBN, etc.).
@@ -35,7 +35,7 @@ O Sistema de Gerenciamento de Biblioteca foi desenvolvido utilizando as seguinte
 * 🔒 **Autenticação**:
   * **JWT (JSON Web Tokens)**: Utilizado para garantir a segurança no processo de autenticação e autorização de usuários.
 
-== 🎮 Como Executar
+== 🔫 Como Executar
 Siga os passos abaixo para executar o projeto em sua máquina local:
 
 1. **Clone o repositório**:
