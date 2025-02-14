@@ -20,7 +20,7 @@ O sistema oferece os seguintes recursos para uma melhor experiência de gestão 
 * 🔔| **Notificação de usuários**: Notifique os usuários sobre empréstimos e devoluções.
 * 🔐| **Sistema de login e autenticação**: Para administradores e usuários, garantindo segurança e controle.
 
-== 📦 Tecnologias Utilizadas
+== 🖥️ Tecnologias Utilizadas
 O Sistema de Gerenciamento de Biblioteca foi desenvolvido utilizando as seguintes tecnologias:
 
 * 🖥| **Frontend**:
@@ -108,7 +108,7 @@ Contribuições são bem-vindas! Para contribuir com o projeto, siga os passos a
 == 📄 Licença
 Este projeto está licenciado sob a licença **MIT**. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) no repositório.
 
-== ✉️ Contato
+== 📞 Contato
 Se você tiver alguma dúvida ou sugestão, entre em contato com a equipe de desenvolvimento:
 
 * **Email**: gabrielly@gmail.com
