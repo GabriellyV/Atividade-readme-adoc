@@ -1,6 +1,6 @@
 = 📖 Sistema de Gerenciamento de Biblioteca
 
- 👧🏻 || Autor: Gabrielly Valdevino
+ 👧🏻 || Autora: Gabrielly Valdevino
  📅 || Data: 14/02/2025
 
 :icons: font
